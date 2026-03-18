@@ -88,7 +88,7 @@ The Vattelum organization develops an open-source toolkit that implements the DL
 ### 1. [Registry — Legal Standards Registry](https://github.com/vattelum/registry) ✅ (Complete and Deployed)
 A curated registry of foundational legal principles and standards. Anyone can deploy their own registry and start creating legal standards. The aim is to have trusted parties publish universal standards, governing laws, and blockchain principles that can be cited throughout the entire stack (standardization across the ecosystem).
 
-▶️ [Watch the Registry in action](https://github.com/user-attachments/assets/cbd1a37c-44c6-465c-9f65-2dc81f672560)
+https://github.com/user-attachments/assets/cbd1a37c-44c6-465c-9f65-2dc81f672560
 
 ### 2. BVS — Blockchain Voting System 🚧 (Under development)
 
