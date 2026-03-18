@@ -62,7 +62,7 @@ Over the following years, the legal theory was deepened and expanded, resulting 
 
 The system operates through three layers:
 
-<img width="814" height="500" alt="Image" src="https://github.com/user-attachments/assets/c6379902-828a-40e4-871b-44b3d99e4214" />
+<img width="650" height="400" alt="Image" src="https://github.com/user-attachments/assets/c6379902-828a-40e4-871b-44b3d99e4214" />
 
 **Enforcement Framework** — The New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards makes private arbitration rulings enforceable in 172 countries. Most online interactions are already governed by arbitration. This is what connects cyberspace to the real world.
 
