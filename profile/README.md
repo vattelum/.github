@@ -155,7 +155,7 @@ graph TD
 
 ---
 
-## How the Projects Interact
+## The Legal Stack and How the Projects Interact
 
 Every document in the system—individual contracts, DAA legislation, universal standards—is citable using a consistent on-chain referencing format. A signed agreement between two parties links to the DAA laws that govern it, which in turn reference the universal standards they adopt (which is optional), which sit under the governing law chosen for dispute resolution and real world enforcement.
 
@@ -166,7 +166,7 @@ Governing Law (e.g., English law)
               └── Individual Contract (binding on parties)
 ```
 
-A single signed contract can be traced all the way up to its governing law through on-chain references. The entire legal package—contract, governing legislation, universal standards, and verification data—can be exported as a single PDF for use in arbitration or court.
+A single signed contract can be traced all the way up to its governing law through on-chain references. The entire legal package—contract, governing legislation, universal standards, and verification data—can be exported as a single PDF which constitutes as on binding agreement for use in arbitration or court.
 
 ---
 
@@ -189,7 +189,7 @@ Few understand the core legal issues and solutions in this industry, and if you 
 | | |
 |---|---|
 | **Whitepaper** | [The Decentralized Legal System (2018)](https://decentralizedlegalsystem.com/whitepaper/) |
-| **Book** | [Available free (2025)](https://decentralizedlaw.org/book/) |
+| **Book** | Decentralized Law: The Power of Blockchain to Transform the Broken Legal System (2025)<br>[Available for free](https://decentralizedlaw.org/book/) |
 | **Discord** | [Join](https://discord.gg/7XJASAKt87) |
 | **Telegram** | [Join](https://telegram.me/+knXyr7M8u61hZGRl) |
 | **X** | [@Decentral_Law](https://x.com/Decentral_Law) |
