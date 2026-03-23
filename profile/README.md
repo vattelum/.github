@@ -91,9 +91,11 @@ A curated registry of foundational legal principles and standards. Anyone can de
 
 https://github.com/user-attachments/assets/cbd1a37c-44c6-465c-9f65-2dc81f672560
 
-### 2. BVS — Blockchain Voting System 🚧 (Under development)
+### 2. [BVS — Blockchain Voting System](https://github.com/vattelum/bvs) ✅ (Complete and Deployed)
 
 A registry allowing an organization to put proposals to a stakeholder vote and permanently record the outcomes on-chain. The BVS makes beneficial blockchain voting tools available to a single legal person or entity, thus avoiding the legal complexity of DAOs.
+
+https://github.com/user-attachments/assets/5bce30e5-9f05-465b-a14e-1a980d423815
 
 ### 3. DAA — Decentralized Autonomous Association 🚧 (Under development)
 
@@ -142,7 +144,7 @@ graph TD
     P5 --- R5
 
     style P1 fill:#40916c,stroke:#2d6a4f,color:#fff
-    style P2 fill:#2d6a4f,stroke:#1b4332,color:#fff
+    style P2 fill:#40916c,stroke:#2d6a4f,color:#fff
     style P3 fill:#2d6a4f,stroke:#1b4332,color:#fff
     style P4 fill:#2d6a4f,stroke:#1b4332,color:#fff
     style P5 fill:#2d6a4f,stroke:#1b4332,color:#fff
