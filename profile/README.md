@@ -40,7 +40,7 @@ Instead of taking an active role in shaping the laws for a decentralized economy
 
 *Consequently, nobody builds the laws and frameworks needed for a functioning decentralized economy...*
 
-**...Vattelum offers this industry a chance to start regulating itself.**
+###Vattelum offers this industry a chance to start regulating itself.
 
 By using proven private legal frameworks, Vattelum takes a bottom-up approach. Vattelum's blockchain governance carries real-world weight, its contracts hold up in arbitration, and its legal standards apply across borders.
 
