@@ -6,7 +6,7 @@
 
 ## Introduction
 
-There was a time blockchain technology promised to govern the world.
+There was a time when blockchain technology promised to govern the world.
 
 A new financial system. New kinds of corporations. Even new nations. 
 
@@ -16,7 +16,7 @@ This did not happen.
 
 The world is governed by laws, not by ledger entries.
 
-This industry *cannot* live up to its potential without a way to effect rights and duties in the real world...
+This industry *cannot* live up to its potential without a way to effect laws in the real world...
 
 ...**Vattelum** serves as the missing bridge.
 
@@ -28,33 +28,41 @@ Vattelum is an open-source toolkit that builds a dynamic body of voluntary, priv
 
 Vattelum enables the creation and permanent recording of binding law on the blockchain. It functions both as a tool for private law creation and a governance layer for decentralized technologies.
 
-### Why Build Vattelum?
+### Why Do We Need Vattelum?
 
-We got into this industry for a reason: decentralization. Networks of equals operating under fair and voluntary standards. Vattelum returns to those values.
+Blockchains created a new reality: a financial system outside of the control of any individual legal system.
 
-For years, blockchain projects created legal structures without law: DAOs without legal personality, smart "contracts" that did not bind, jurisdictions without enforcement.
+The technical success of peer-to-peer transactions convinced this industry that blockchain technology could simply take over the financial system. That real-world assets would trade freely "on-chain." New organizations, new markets, and even new countries would be built "on top" of the blockchain.
 
-By using proven private legal frameworks, Vattelum takes the opposite approach. The result is governance that carries real-world weight, contracts that hold up in arbitration, and legal standards that travel across borders.
+Slowly but surely, this industry realized that the "off-chain" real world is governed by laws, not technology. And the law assumes that intermediaries run the financial system.
 
-Vattelum is built on these principles: that people can create binding law together; that blockchain provides the permanence and transparency that law requires; and that arbitration provides enforcement where code falls short.
+Instead of taking an active role in shaping the laws for a decentralized economy, this industry looked towards regulators for "legal certainty." The regulators responded by applying the same laws for financial institutions to any service provider in this industry. Ever since, industry legal professionals have spent all their time shoehorning the tech into ever more restrictive frameworks.
 
-...*Law creation does not require permission*...
+*Consequently, nobody builds the laws and frameworks needed for a functioning decentralized economy...*
 
-Fork it, deploy it, build on it. Create your own jurisdiction in an afternoon. Successful laws can be referenced across the ecosystem.
+**...Vattelum offers this industry a chance to start regulating itself.**
 
-Will you create the new standards this industry needs?
+By using proven private legal frameworks, Vattelum takes a bottom-up approach. Vattelum's blockchain governance carries real-world weight, its contracts hold up in arbitration, and its legal standards apply across borders.
+
+Vattelum is built on these principles: that people can create binding law together; that blockchain provides the permanence and transparency that law requires; and that arbitration provides a bridge into the real world of rights and duties where code falls short.
+
+Vattelum allows you to create the legal standards this industry needs.
+
+Fork it, deploy it, build on it. Create your own jurisdiction in an afternoon. Successful laws will be referenced across the ecosystem.
+
+**...Law creation does not require permission: start today!...**
 
 ### The Vattelum Name
 
 Vattelum is named after the Swiss legal scholar Emerich de Vattel. He was instrumental in transforming the principles of natural law—a law of sovereign equals—into a working system of international law.
 
-In a world (and particularly an industry) now suffering from the overreach of international law, this project aims to law's once-true origins: the harmonization of rights and duties among equals and across borders.
+In a world (and particularly an industry) now suffering from the overreach of international law, this project aims to restore law's once-true origins: the harmonization of rights and duties among equals and across borders.
 
 ---
 
 ## Vattelum: a Decentralized Legal System
 
-Vattelum is the first functional example of a Decentralized Legal System (DLS). It is built on the consent of its participants rather than governmental authority. It exists in cyberspace but carries force in the real world. It relies on existing arbitration frameworks to connect decentralized technology with an existing, enforceable legal structure.
+Vattelum is the first functional example of a Decentralized Legal System (DLS). It builds on participant consent rather than governmental authority. It exists in cyberspace but carries force in the real world. It relies on existing arbitration frameworks to connect decentralized technology with an existing, enforceable legal structure.
 
 The DLS concept was first published in 2018 as a [whitepaper](https://decentralizedlegalsystem.com/whitepaper/), as a reaction to the 2017 ICO explosion of legal applications without law (most of which since have disappeared).
 
@@ -70,7 +78,7 @@ The system operates through three layers:
 
 **Established Governing Laws** — The authority layer. Proven legal systems—such as English law or the UNIDROIT Principles—give the framework legal weight and predictability. Arbitrators and courts rely on these to interpret and adjudicate disputes.
 
-**Decentralized Legal Frameworks** — The innovation layer. This is where participants build: Decentralized Autonomous Associations (DAAs) creating decentralized law, Smart Contract Blocks that merge code with legal contracts, Consensus Jurisdictions of groups creating their own binding legal standards.
+**Decentralized Legal Frameworks** — The innovation layer. This is where participants build: Decentralized Autonomous Associations (DAAs) creating decentralized law, Smart Contract Blocks (SCBs) that merge code with legal contracts, Consensus Jurisdictions creating their own binding legal standards, and more...
 
 ### And... Everything Is Now In Place to Build This...
 
@@ -87,7 +95,7 @@ And with the currently available blockchain technology for voting and online sto
 The Vattelum organization develops an open-source toolkit that implements the DLS as usable software. Five products, each building on the previous.
 
 ### 1. [Registry — Legal Standards Registry](https://github.com/vattelum/registry) ✅ (Complete and Deployed)
-A curated registry of foundational legal principles and standards. Anyone can deploy their own registry and start creating legal standards. The aim is to have trusted parties publish universal standards, governing laws, and blockchain principles that can be cited throughout the entire stack (standardization across the ecosystem).
+A curated registry of foundational legal principles and standards. Anyone can deploy their own registry and start creating legal standards. The aim is to have trusted parties publish universal standards, governing laws, and blockchain principles that can be cited throughout the entire stack. The result: standardization across the ecosystem.
 
 https://github.com/user-attachments/assets/cbd1a37c-44c6-465c-9f65-2dc81f672560
 
@@ -97,15 +105,17 @@ A registry allowing an organization to put proposals to a stakeholder vote and p
 
 https://github.com/user-attachments/assets/5bce30e5-9f05-465b-a14e-1a980d423815
 
-### 3. DAA — Decentralized Autonomous Association 🚧 (Under development)
+### 3. DAA — Decentralized Autonomous Association ✅ (Complete and Deployed)
 
-The DAA deliberately is not a DAO, because it does not try to be an organization. It is an association of equals. The DAA does not perform regulated activities. There is no treasury, no tradable tokens, and no shared liability.
+The DAA is deliberately not a DAO, because it does not try to be an organization. It is an association of equals. The DAA does not perform regulated activities. There is no treasury, no tradable tokens, and no shared liability.
 
 Independent legal persons draft, discuss, vote on, and permanently record binding standards and shared principles.
 
+https://github.com/user-attachments/assets/1bf747e9-978a-4c2d-82b7-f28c50b30505
+
 ### 4a. Contract Layer 🚧 (Under development)
 
-The contract layer turns DAA governing laws into binding agreements between specific parties. It stores an encrypted contract on-chain, exportable together with its governing laws as a signed PDF for use in arbitration or court.
+The contract layer turns DAA governing laws into binding agreements between specific parties. It stores an encrypted contract on-chain, and can be exported together with its governing laws as a signed PDF for use in arbitration or court.
 
 ### 4b. SCB — Smart Contract Blocks 🚧 (Under development)
 
@@ -159,16 +169,16 @@ graph TD
 
 ## The Legal Stack and How the Projects Interact
 
-Every document in the system—individual contracts, DAA legislation, universal standards—is citable using a consistent on-chain referencing format. A signed agreement between two parties links to the DAA laws that govern it, which in turn reference the universal standards they adopt (which is optional), which sit under the governing law chosen for dispute resolution and real world enforcement.
+Every document in the system—individual contracts, DAA legislation, universal standards—is citable using a consistent on-chain referencing format. A signed agreement between two parties links to the DAA laws that govern it, which in turn reference the universal standards they adopt (if any), which sit under the governing law chosen for dispute resolution and real-world enforcement.
 
 ```
 Governing Law (e.g., English law)
   └── Universal Standards (Selected by parties from Registry)
-        └── DAA Legislation (binding on members or selected by parties)
+        └── DAA Legislation (binding on all members or agreed on by parties)
               └── Individual Contract (binding on parties)
 ```
 
-A single signed contract can be traced all the way up to its governing law through on-chain references. The entire legal package—contract, governing legislation, universal standards, and verification data—can be exported as a single PDF which constitutes as on binding agreement for use in arbitration or court.
+A single signed contract can be traced all the way up to its governing law through on-chain references. The entire legal package—contract, governing legislation, universal standards, and verification data—can be exported as a single PDF which constitutes a single binding agreement for use in arbitration or court.
 
 ---
 
@@ -176,7 +186,7 @@ A single signed contract can be traced all the way up to its governing law throu
 
 The toolkit is open source. Anyone can deploy it, fork it, and build on it.
 
-The goal is foundational infrastructure designed to be self-sustaining. This is not a permanently managed software product. It is a public good; legal rails for decentralized cooperation.
+The goal is foundational infrastructure designed to be self-sustaining. This is not a permanently managed software product. It is a public good: legal rails for decentralized cooperation.
 
 This project is in active development. Feedback and suggestions are more than welcome.
 
