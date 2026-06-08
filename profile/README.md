@@ -20,6 +20,10 @@ This industry *cannot* live up to its potential without a way to effect laws in 
 
 ...**Vattelum** serves as the missing bridge.
 
+### Explanatory Video
+
+https://github.com/user-attachments/assets/ce680b0b-1bd9-41e0-a893-d9d2dce3964a
+
 ---
 
 ## Vattelum
@@ -118,7 +122,7 @@ A curated registry of foundational legal principles and standards, run by a sing
 
 The Registry adds one novel guarantee on top of the standard: hard-lock amendment restrictions. When the admin locks a document, the lock is cryptographically binding for its duration—the admin itself cannot override it. The contract is the constraint.
 
-https://github.com/user-attachments/assets/cbd1a37c-44c6-465c-9f65-2dc81f672560
+https://github.com/user-attachments/assets/d4bfd9dc-1f54-4c7f-91f1-747b2ff9a4df
 
 ### 2. BVS — [Blockchain Voting System](https://github.com/vattelum/bvs) ✅ (Complete and Deployed)
 
@@ -148,7 +152,11 @@ Every signatory decrypts the contract in their browser using their wallet, signs
 
 The SCB also stores a content-addressed reference to a deployed smart contract (address + bytecode hash + chain ID), so the legal text and the code that implements it are bound together on-chain.
 
+https://github.com/user-attachments/assets/35c52245-38ce-4241-b706-fdb070fd31ef
+
 ---
+
+## Vattelum Project Overvew
 
 ```mermaid
 graph TD
@@ -216,8 +224,9 @@ This project's Achilles' heel for all its years has been lack of awareness. If a
 
 | | |
 |---|---|
-| **Whitepaper** | [The Decentralized Legal System (2018)](https://decentralizedlegalsystem.com/whitepaper/) |
-| **Book** | Decentralized Law: The Power of Blockchain to Transform the Broken Legal System (2025)<br>[Available for free](https://decentralizedlaw.org/book/) |
+| **Website** | [Vattelum: Open-Source Lawmaking on the Ethereum Blockchain](https://delawlabs.com/vattelum) |
+| **Original Whitepaper** | [The Decentralized Legal System (2018)](https://decentralizedlegalsystem.com/whitepaper/) |
+| **Book** | [Decentralized Law: The Power of Blockchain to Transform the Broken Legal System (2025)](https://decentralizedlaw.org/book/) |
 | **Discord** | [Join](https://discord.gg/7XJASAKt87) |
 | **Telegram** | [Join](https://telegram.me/+knXyr7M8u61hZGRl) |
 | **X** | [@Decentral_Law](https://x.com/Decentral_Law) |
